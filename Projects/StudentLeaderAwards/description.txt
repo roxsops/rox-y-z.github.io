@@ -4,6 +4,6 @@ Project Description
 ---
 Adobe Illustrator, Adobe InDesign, Adobe Photoshop
 ---
-../../Projects/StudentLeaderAwards/thumbnail_GEA.png
+https://i.postimg.cc/TYnt5S26/SLA.png
 ---
 StudentLeaderAwards.html
