@@ -1,0 +1,9 @@
+Student Leader Awards
+---
+Project Description
+---
+Adobe Illustrator, Adobe InDesign, Adobe Photoshop
+---
+../../Projects/StudentLeaderAwards/thumbnail_GEA.png
+---
+StudentLeaderAwards.html

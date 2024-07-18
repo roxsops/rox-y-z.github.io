@@ -1,9 +1,0 @@
-Student Leader Awards
----
-Project Description
----
-Adobe Illustrator, Adobe InDesign, Adobe Photoshop
----
-https://drive.google.com/file/d/1u5_6m3YvENPAvt30SO5f5vu5SEyIafNB/view?usp=sharing
----
-name of project html ("bigmegagun.html" for example - make sure you rename the template html)
