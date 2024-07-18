@@ -1,7 +1,7 @@
-../../Projects/StudentLeaderAwards/mockup_SLA.png
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+https://i.postimg.cc/TYnt5S26/SLA.png
+Various print format designs for 2 Certificates, 1 poster, 1 double-sided program, double-sided invitations, reservation signage, and 2 digital formats for display on a plasma TV screen.
 
-https://example2.jpg
+https://i.postimg.cc/P56LKWdq/mockup-SLA-program.png
 Description for example2.jpg.
 
 https://example3.gif
