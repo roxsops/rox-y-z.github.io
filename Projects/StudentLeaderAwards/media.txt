@@ -1,17 +1,17 @@
 https://i.postimg.cc/TYnt5S26/SLA.png
-Various print format designs for 2 Certificates, 1 poster, 1 double-sided program, double-sided invitations, reservation signage, and 2 digital formats for display on a plasma TV screen.
+Various print format designs: 2 Certificates, 1 poster, 1 double-sided program, double-sided invitations, reservation signage. 2 digital formats for display within a slideshow on a plasma TV screen.
 
 https://i.postimg.cc/P56LKWdq/mockup-SLA-program.png
-Description for example2.jpg.
+The program was a handout for guests whom were invited to the event. This includes the ceremony's order of events for the evening. 
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+https://i.postimg.cc/kD3Z9kQg/mockup-SLA-invites-a.png
+Invites, double-sided
 
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
+https://i.postimg.cc/d3rF8RnD/mockup-SLA-certs.png
+Certificate designs
 
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
+https://i.postimg.cc/vHSFJPTR/mockup-plasma-SLA.png
+Plasma TV format in the lobby for marketing events
 
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+https://i.postimg.cc/ncLfw8HY/mockup-plasma-GEA.png
+Plasma TV format in the lobby for marketing events
