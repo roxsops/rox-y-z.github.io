@@ -4,6 +4,6 @@ A public business solution for client communications on my freelancing website, 
 ---
 HTML, CSS, Trello
 ---
-https://i.postimg.cc/sXgXp7P9/thumbnail-client-WL.png
+https://i.postimg.cc/26cWcJvV/thumbnail-client-WL2.png
 ---
 ClientWaitlist.html

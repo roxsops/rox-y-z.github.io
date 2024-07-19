@@ -1,9 +1,9 @@
-ClickUp Mockups
+Unofficial ClickUp Mockups
 ---
 Participating on the ClickUp forums through Canny has inspired me to share visual design ideas. I like to browse Feature Requests, collect popular opinions from customers, and help illustrate their thoughts and ideas. Processing ideas helps me come up with some of my own too — of which are included here.
 ---
 Adobe Illustrator, Clip Studio Paint, Adobe Photoshop, Adobe After Effects
 ---
-https://i.postimg.cc/m2ftzfHw/thumbnail-CU-QAmenu.png
+https://i.postimg.cc/XJRjYk6s/thumbnail-CU-QAmenu4.png
 ---
-ClickUpMockups.html
+UnofficialClickUpMockups.html
