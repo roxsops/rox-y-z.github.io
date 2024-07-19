@@ -1,4 +1,5 @@
+ClickUpMockups
 StudentLeaderAwards
+PosterDesigns
 RitaRigs
-ClickUp Mockups
-Poster Designs
+ClientWaitlist

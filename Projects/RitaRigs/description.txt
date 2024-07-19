@@ -1,0 +1,9 @@
+Rita Rigs
+---
+Our goal was to build a new visual identity that is open and comfortable, in effort to support a learning environment for the challenges in 3D rigging. This project was in collaboration with animator, Daniel Silva, and programmer, Dominik Lingenover.
+---
+Adobe Illustrator, Clip Studio Paint, Adobe Photoshop, Adobe After Effects
+---
+https://i.postimg.cc/qqJ9t74Y/thumbnail-ritarigs.png
+---
+RitaRigs.html
