@@ -1,12 +1,12 @@
 ../../Projects/PosterDesigns/mockup_posters_grid2.png
 
-../../Projects/PosterDesigns/mockup-posters2.png
+../../Projects/PosterDesigns/mockup_posters2.png
 
 ../../Projects/PosterDesigns/indVisions_poster.png
 
 ../../Projects/PosterDesigns/break4pawz_poster.jpg
 
-../../Projects/PosterDesigns/takebackthenight_poster.jpg
+../../Projects/PosterDesigns/takebackthenight_poster.png
 
 ../../Projects/PosterDesigns/platicasConProfesSeries_poster.png
 
