@@ -1,10 +1,10 @@
-https://i.postimg.cc/zv1qxhKc/client-WL-full.png
+../../Resources/ClientWaitlist/clientWL_full.png
 "Name" and "Product" are automatically pulled from details provided by the client using the order form. "Status" and "ETA" are manually set by the business owner.
 
-https://i.postimg.cc/FHSD4JLZ/client-WL-trello.png
+../../Resources/ClientWaitlist/clientWL_trello.png
 Orders submitted by clients automatically get added to the Trello board — the source for the website script.
 
 ../../Resources/ClientWaitlist/maxedWaitlist.webm
 Hard limits are set as to not exceed 5 orders at a time. Any orders submitted while full get archived for later review.
 
-https://i.postimg.cc/g0qswF4L/client-WL-mid.png
+../../Resources/ClientWaitlist/clientWL_mid.png
