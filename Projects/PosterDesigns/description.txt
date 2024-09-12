@@ -4,6 +4,6 @@ Various Poster Designs from events hosted by the University-Student Union at Cal
 ---
 Adobe Illustrator, Adobe Photoshop, Adobe Photoshop
 ---
-https://i.postimg.cc/SxP2DXP6/thumbnail-posters.png
+../../Projects/PosterDesigns/thumbnail_posters.png
 ---
 PosterDesigns.html
