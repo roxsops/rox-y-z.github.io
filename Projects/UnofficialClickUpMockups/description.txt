@@ -4,6 +4,6 @@ Participating in the ClickUp Canny forums has inspired me to share visual design
 ---
 Adobe Illustrator, Clip Studio Paint, Adobe Photoshop, Adobe After Effects
 ---
-https://i.postimg.cc/XJRjYk6s/thumbnail-CU-QAmenu4.png
+../../Projects/UnofficialClickUpMockups/thumbnail_CU_QAmenu4.png
 ---
 UnofficialClickUpMockups.html

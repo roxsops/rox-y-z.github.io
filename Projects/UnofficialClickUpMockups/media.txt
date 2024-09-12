@@ -1,15 +1,15 @@
-https://i.postimg.cc/7P9zWvxX/mockup-CU-QAmenu.png
+../../Projects/UnofficialClickUpMockups/mockup_CU_QAmenu.png
 Customizeable, animated Quick Action Menu on mobile
 
-https://i.postimg.cc/TwxN285h/sticky-Navbar.png
+../../Projects/UnofficialClickUpMockups/stickyNavbar.gif
 Sticky navbar with jump links for Task View. Provides task details upon hovering over navabar icons.
 
-../../Resources/UnofficialClickUpMockups/stickyNavbar.webm
+../../Projects/UnofficialClickUpMockups/stickyNavbar.webm
 Sticky navbar with jumplinks in action
 
-https://i.postimg.cc/SN5JBkHL/status-cover-images.png
+../../Projects/UnofficialClickUpMockups/status cover images.png
 Status Cover Images for when we share public views to clients unfamiliar with board views
 
-../../Resources/UnofficialClickUpMockups/animatedTasks.webm
+../../Projects/UnofficialClickUpMockups/animatedTasks.webm
 Task animation to soften the viewing experience and extend the status color indicator 
 
