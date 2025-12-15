@@ -1,9 +1,0 @@
-Client Waitlist
----
-A public business solution for client communications on my freelancing website, maximizing my time spent working on projects. With the help of my friend, bytesized, this script is linked to my Trello board. He allowed me to style it so that it matches my website.
----
-HTML, CSS, Trello
----
-../../Projects/ClientWaitlist/thumbnail_clientWL2.png
----
-ClientWaitlist.html
