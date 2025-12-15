@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\ClientWaitlist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\ClientWaitlist\\ClientWaitlist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\ClientWaitlist\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\ClientWaitlist\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\UnofficialClickUpMockups\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\PosterDesigns\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\PosterDesigns\\media.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\UnofficialClickUpMockups\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-12T04:54:54.33Z",
+              "DocumentIndex": 0,
+              "Title": "media.txt",
+              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\media.txt",
+              "RelativeDocumentMoniker": "Projects\\ClientWaitlist\\media.txt",
+              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\media.txt",
+              "RelativeToolTip": "Projects\\ClientWaitlist\\media.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-12T06:31:49.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "about.html",
-              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\about.html",
-              "RelativeDocumentMoniker": "about.html",
-              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\about.html",
-              "RelativeToolTip": "about.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-12T04:54:37.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientWaitlist.html",
-              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\ClientWaitlist.html",
-              "RelativeDocumentMoniker": "Projects\\ClientWaitlist\\ClientWaitlist.html",
-              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\ClientWaitlist.html",
-              "RelativeToolTip": "Projects\\ClientWaitlist\\ClientWaitlist.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-12T04:50:48.074Z",
+              "Title": "media.txt",
+              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\PosterDesigns\\media.txt",
+              "RelativeDocumentMoniker": "Projects\\PosterDesigns\\media.txt",
+              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\PosterDesigns\\media.txt",
+              "RelativeToolTip": "Projects\\PosterDesigns\\media.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-12T06:04:43.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "description.txt",
-              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\description.txt",
-              "RelativeDocumentMoniker": "Projects\\ClientWaitlist\\description.txt",
-              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\description.txt",
-              "RelativeToolTip": "Projects\\ClientWaitlist\\description.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\description.txt",
+              "RelativeDocumentMoniker": "Projects\\UnofficialClickUpMockups\\description.txt",
+              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\description.txt",
+              "RelativeToolTip": "Projects\\UnofficialClickUpMockups\\description.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-12T04:38:36.483Z",
+              "WhenOpened": "2024-09-12T06:00:06.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "media.txt",
-              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\media.txt",
-              "RelativeDocumentMoniker": "Projects\\ClientWaitlist\\media.txt",
-              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\ClientWaitlist\\media.txt",
-              "RelativeToolTip": "Projects\\ClientWaitlist\\media.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\media.txt",
+              "RelativeDocumentMoniker": "Projects\\UnofficialClickUpMockups\\media.txt",
+              "ToolTip": "C:\\Users\\Roxana\\Desktop\\Main\\Website\\github\\rox-y-z.github.io\\Projects\\UnofficialClickUpMockups\\media.txt",
+              "RelativeToolTip": "Projects\\UnofficialClickUpMockups\\media.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-12T04:39:23.963Z",
+              "WhenOpened": "2024-09-12T06:00:02.611Z",
               "EditorCaption": ""
             }
           ]
