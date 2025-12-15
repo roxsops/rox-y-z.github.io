@@ -1,6 +1,24 @@
 ../../Projects/CalvaryChapel/photo.jpg
 
-../../Projects/CalvaryChapel/calvaryChapel_web.pdf
+../../Projects/CalvaryChapel/calvaryChapel-1.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-2.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-3.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-4.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-5.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-6.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-7.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-8.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-9.jpg
+
+../../Projects/CalvaryChapel/calvaryChapel-10.jpg
 
 ../../Projects/CalvaryChapel/signage1.jpg
 
