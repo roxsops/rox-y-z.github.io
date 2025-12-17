@@ -1,0 +1,3 @@
+../../Projects/EntertainmentInternships/entertainmentInternships_poster.png
+
+../../Projects/EntertainmentInternships/entertainmentInternships_closeup.png
