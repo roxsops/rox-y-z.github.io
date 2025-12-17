@@ -1,7 +1,7 @@
 GoldenEagleNight
 StudentLeaderAwards
 CalvaryChapel
-Got5Minutes
+GotFiveMinutes
 RitaRigs
 Break4Pawz
 SpunktacularScience
@@ -12,6 +12,7 @@ RAD
 SummerBingo
 TableTennis
 UndocuBlack
+AmericanCommunitiesProgram
 TakeBackTheNight
 EntertainmentInternships
 FacialStudy

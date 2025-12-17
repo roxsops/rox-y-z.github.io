@@ -1,0 +1,11 @@
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_posters_horizontal.png
+
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_group1_horizontal.png
+
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_group2_horizontal.png
+
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_group3_horizontal.png
+
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_web.png
+
+../../Projects/AmericanCommunitiesProgram/ACP_mockup_iso.png
