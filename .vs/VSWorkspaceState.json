@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Projects",
-    "\\Projects\\ClientWaitlist",
-    "\\Projects\\PosterDesigns",
-    "\\Projects\\UnofficialClickUpMockups"
+    "\\Config",
+    "\\Projects"
   ],
-  "SelectedNode": "\\Projects\\ClientWaitlist\\media.txt",
+  "SelectedNode": "\\Config\\projects.txt",
   "PreviewInSolutionExplorer": false
 }
