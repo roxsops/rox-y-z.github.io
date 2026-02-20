@@ -4,6 +4,6 @@ Campaign design for The Student Leader Awards of 2018 at California State Univer
 ---
 Adobe Illustrator, Adobe InDesign, Adobe Photoshop
 ---
-../../Projects/StudentLeaderAwards/thumbnail_SLA2.png
+../../Projects/StudentLeaderAwards/WEB_SLA_480.jpg
 ---
 StudentLeaderAwards.html
