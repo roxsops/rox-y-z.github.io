@@ -1,11 +1,11 @@
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_posters_horizontal.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_posters_horizontal.jpg
 
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_group1_horizontal.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_grp1_horizontal.jpg
 
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_group2_horizontal.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_grp2_horizontal.jpg
 
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_group3_horizontal.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_grp3_horizontal.jpg
 
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_web.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_plasmas.jpg
 
-../../Projects/AmericanCommunitiesProgram/ACP_mockup_iso.png
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_iso.jpg

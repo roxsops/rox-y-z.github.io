@@ -4,6 +4,6 @@ American Communities Program
 ---
 Adobe Illustrator
 ---
-../../Projects/AmericanCommunitiesProgram/ACPCalendar_480_2017Fall.jpg
+../../Projects/AmericanCommunitiesProgram/WEB_ACP_480.jpg
 ---
 AmericanCommunitiesProgram.html
