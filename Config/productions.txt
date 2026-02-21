@@ -47,7 +47,7 @@ Data-entry of financial records. Sort physical documents and receipts. Reconcile
 3D Artist Lead
 Annual Game Jams | Remote
 January 2021 - January 2024
-../../Resources/productions-images/teamMelon.jpg
+../../Resources/productions-images/GGJ.jpg
 Conceptualize with a team of artists to build 3D assets together. Delegate tasks and check-ins, if needed. Commit 3-10 days per annual jam, on average.
 ---
 California State University, Los Angeles
