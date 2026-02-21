@@ -4,6 +4,6 @@ Our goal was to build a new visual identity that is open and comfortable, in eff
 ---
 Adobe Illustrator, Clip Studio Paint, Adobe Photoshop, Adobe After Effects
 ---
-../../Projects/RitaRigs/thumbnail_ritarigs.png
+../../Projects/RitaRigs/WEB_ritarigs_480.jpg
 ---
 RitaRigs.html

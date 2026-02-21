@@ -1,23 +1,24 @@
-../../Projects/RitaRigs/01 - logo.png
+../../Projects/RitaRigs/WEB_01-logo.jpg
 
-../../Projects/RitaRigs/02 - logo exploration.png
+../../Projects/RitaRigs/WEB_02-01-concept.jpg
 
-../../Projects/RitaRigs/03 - colors.png
+../../Projects/RitaRigs/WEB_02-03-concept.jpg
 
-../../Projects/RitaRigs/04 - overlays.png
+../../Projects/RitaRigs/WEB_02-logo-exploration.jpg
 
-../../Projects/RitaRigs/05 - away screens.png
+../../Projects/RitaRigs/WEB_03-colors.jpg
 
-../../Projects/RitaRigs/06 - alerts.png
+../../Projects/RitaRigs/WEB_04-overlays.jpg
 
-../../Projects/RitaRigs/07 - social media.png
+../../Projects/RitaRigs/WEB_05-way-screens.jpg
 
-../../Projects/RitaRigs/08 - livestream layers.png
+../../Projects/RitaRigs/WEB_06-alerts.jpg
 
-../../Projects/RitaRigs/09 - media templates.png
+../../Projects/RitaRigs/WEB_07-social-media.jpg
 
-../../Projects/RitaRigs/stinger_v6.gif
-Concept animatic for stinger transition
+../../Projects/RitaRigs/WEB_08-livestream-layers.jpg
+
+../../Projects/RitaRigs/WEB_09-media-templates.jpg
 
 ../../Projects/RitaRigs/ritarigs_twitter_all_noTXT.gif
-Emotes made for use in chatrooms on Twitch and Discord
+Emotes made for use in chatrooms on platforms like Twitch and Discord
