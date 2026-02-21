@@ -30,9 +30,10 @@
   color: #a28dbf;
 }
 
+/* Changed width and height from 150px to 0px as to hide the profile pic temporarily */
 .profile-pic {
-  width: 150px;
-  height: 150px;
+  width: 0px;
+  height: 0px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
