@@ -4,6 +4,6 @@ Calvary Chapel in Prineville, Oregon, desired a logo that reflects the landscape
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
-../../Projects/CalvaryChapel/calvaryChapel_480.jpg
+../../Projects/CalvaryChapel/WEB_calvaryChapel_480.jpg
 ---
 CalvaryChapel.html
