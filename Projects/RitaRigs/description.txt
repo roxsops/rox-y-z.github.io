@@ -1,6 +1,6 @@
 Rita Rigs
 ---
-A rebranding project for an online educator, built around a cohesive visual system for livestreams and video content. Rigging often involves many small technical steps that create friction for learners, and for beginners it can feel intimidating, rigid, and unforgiving. The new identity was designed to soften that experience: sharp, disciplined geometry reflects the structure of the craft, while soft lighting and gentle gradients introduce warmth and approachability. Layered forms reinforce depth and clarity, reframing rigging as a skill that becomes accessible with patience, structure, and guidance. 
+A visual identity rebranding project for an online educator, RitaRigs, complete with a cohesive visual set of graphics for both livestreams and on-demand video content. Rigging as a skill often involves many small technical steps, creating friction for beginners and making it feel intimidating, rigid, and unforgiving. This new brand identity was designed to soften that experience: sharp, disciplined geometry reflecting the structure of the craft, while soft lighting and gentle gradients introduce warmth and approachability. The layered forms reinforce depth and clarity, reframing rigging as a skill that becomes accessible with patience, structure, and guidance. 
 
 In collaboration with animator, Daniel Silva, and programmer, Dominik Lingenover.
 ---
