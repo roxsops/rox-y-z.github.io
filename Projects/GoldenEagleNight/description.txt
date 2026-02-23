@@ -4,6 +4,6 @@ A campaign to celebrate being a Golden Eagle on campus with a day full of activi
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
-../../Projects/GoldenEagleNight/GEN_480.jpg
+../../Projects/GoldenEagleNight/WEB_GEN_480.jpg
 ---
 GoldenEagleNight.html
