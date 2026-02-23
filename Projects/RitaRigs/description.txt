@@ -1,6 +1,8 @@
 Rita Rigs
 ---
-Our goal was to build a new visual identity that is open and comfortable, in effort to support a learning environment for the challenges in 3D rigging. This project was in collaboration with animator, Daniel Silva, and programmer, Dominik Lingenover.
+A rebranding project for an online educator, built around a cohesive visual system for livestreams and video content. Rigging often involves many small technical steps that create friction for learners, and for beginners it can feel intimidating, rigid, and unforgiving. The new identity was designed to soften that experience: sharp, disciplined geometry reflects the structure of the craft, while soft lighting and gentle gradients introduce warmth and approachability. Layered forms reinforce depth and clarity, reframing rigging as a skill that becomes accessible with patience, structure, and guidance. 
+
+In collaboration with animator, Daniel Silva, and programmer, Dominik Lingenover.
 ---
 Adobe Illustrator, Clip Studio Paint, Adobe Photoshop, Adobe After Effects
 ---
