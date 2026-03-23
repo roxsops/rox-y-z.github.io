@@ -1,8 +1,17 @@
+Adobe Creative Suite
 Adobe Illustrator
 Adobe Photoshop
+Adobe InDesign
 Adobe After Effects
 Adobe Premiere
 Davinci Resolve
 Clip Studio Paint
+Pixologic Zbrush
+Autodesk Maya
+Blender
 Figma
 Miro
+Trello
+Clickup
+Notion
+Microsoft Suite
