@@ -4,6 +4,6 @@ Various black & white prints demonstrating contrast and form
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
-../../Projects/CalvaryChapel/
+../../Projects/Monochrome/WEB_Monochrome_480.jpg
 ---
 Monochrome.html
