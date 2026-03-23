@@ -1,5 +1,8 @@
 ../../Projects/Monochrome/WEB_Monochrome_lineup.jpg
 
+../../Projects/Monochrome/WEB_PlaticasConProfes_present.jpg
+
 ../../Projects/Monochrome/WEB_RAD_present.jpg
+
 
 
