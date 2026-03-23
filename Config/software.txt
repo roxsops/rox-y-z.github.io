@@ -8,6 +8,8 @@ Davinci Resolve
 Clip Studio Paint
 Pixologic Zbrush
 Autodesk Maya
+Visual Studio
+GitLab
 Blender
 Figma
 Miro
