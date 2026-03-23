@@ -1,6 +1,6 @@
 Monochrome
 ---
-Various black & white prints demonstrating contrast and form
+Various black & white prints created to practice contrast and form. The processs involved making the designs in black and white, and then replacing values with color for web graphics.
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
