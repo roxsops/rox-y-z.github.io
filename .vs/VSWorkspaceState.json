@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Config",
-    "\\Projects"
+    "\\CSS",
+    "\\Projects",
+    "\\Projects\\StilliRise",
+    "\\Projects\\StudentLeaderAwards"
   ],
-  "SelectedNode": "\\Config\\projects.txt",
+  "SelectedNode": "\\Projects\\StilliRise\\description.txt",
   "PreviewInSolutionExplorer": false
 }
