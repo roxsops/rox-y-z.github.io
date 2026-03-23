@@ -4,6 +4,6 @@ A community‑centered workshop designed to help participants illustrate a futur
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
-../../Projects/Monochrome/WEB_weAreTheGarden_480.jpg
+../../Projects/WeAreTheGarden/WEB_weAreTheGarden_480.jpg
 ---
 WeAreTheGarden.html
