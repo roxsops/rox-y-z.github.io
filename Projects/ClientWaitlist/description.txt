@@ -1,6 +1,6 @@
 ﻿Client Waitlist
 ---
-Co-created a Wait List webpage with programmer, "Bytesized," as a custom administrative tool to enhance the consultation process, giving clients real‑time visibility into their position in the project queue. The script integrates with a Trello board used for tagging projects with public status updates. The HTML was scripted with flexibility for styling, allowing me to style it so that it aligns with my website’s design.
+Co-created a Wait List webpage with programmer, "Bytesized," as a custom administrative tool to enhance the consultation process, giving clients real‑time visibility into their position in the project queue. The script integrates with a Trello board used for tagging projects with public status updates. The HTML was scripted with flexibility for styling so that it aligned with my website’s design.
 ---
 HTML, CSS, Trello
 ---
