@@ -4,6 +4,6 @@ Co-created a Wait List webpage with programmer, "Bytesized," as a custom adminis
 ---
 HTML, CSS, Trello
 ---
-../../Projects/ClientWaitlist/WEB_clientWL2_480.jpg
+../../Projects/ClientWaitlist/WEB_clientWL3_480.jpg
 ---
 ClientWaitlist.html
