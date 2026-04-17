@@ -1,6 +1,7 @@
 WeAreTheGarden
 StilliRise
 StudentLeaderAwards
+CommunityUpdateVisuals
 CalvaryChapel
 RitaRigs
 Break4Pawz
@@ -8,4 +9,3 @@ Monochrome
 AmericanCommunitiesProgram
 GoldenEagleNight
 ClientWaitlist
-CommunityUpdateVisuals
