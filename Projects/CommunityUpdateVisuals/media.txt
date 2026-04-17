@@ -1,5 +1,26 @@
+
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_panel1.jpg
 
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_panel2.jpg
 
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_panel3.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_team.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_10hr.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_gameawards.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_schedule.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_2Little.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_3Pass.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_4Anatomy.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_raidtrain.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_newschedule.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_boost.jpg
