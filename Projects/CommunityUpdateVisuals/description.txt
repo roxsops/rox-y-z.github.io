@@ -4,6 +4,6 @@ A series of graphics to support a community from livestreaming art projects. Whi
 ---
 Adobe Illustrator, Adobe Photoshop
 ---
-../../Projects/ClientWaitlist/WEB_communityUpdateVisuals_480.jpg
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_480.jpg
 ---
 CommunityUpdateVisuals.html
