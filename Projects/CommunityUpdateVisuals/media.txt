@@ -15,9 +15,13 @@
 
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_2Little.jpg
 
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_4Anatomy.jpg
+
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_3Pass.jpg
 
-../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_4Anatomy.jpg
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_3Pass_1upload.jpg
+
+../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_3Pass_2slot.jpg
 
 ../../Projects/CommunityUpdateVisuals/WEB_communityUpdateVisuals_raidtrain.jpg
 
