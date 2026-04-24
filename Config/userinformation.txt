@@ -1,4 +1,4 @@
-../../Resources/profilepicture/portrait.jpg
+../../Resources/profilepicture/logo.jpg
 Roxana J
 Graphic Designer
 California, USA

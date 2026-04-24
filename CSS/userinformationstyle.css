@@ -30,10 +30,10 @@
   color: #a28dbf;
 }
 
-/* Changed width and height from 150px to 0px as to hide the profile pic temporarily */
-.profile-pic {
-  width: 0px;
-  height: 0px;
+/* Personal Note (roxsops): Changed width and height from 150px to 0px as to hide the profile pic temporarily */
+.profile-pic {../../Resources/profilepicture/logo.jpg
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
